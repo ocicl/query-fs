@@ -4,6 +4,6 @@ It is a mirror of QueryFS monotone repository. QueryFS is stable enough that dif
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/fb08af68/query-fs.git |
-| commit  | 3d4626d                                      |
+| commit  | 6f0fb84                                      |
 | systems | query-fs                                     |
 |---------+----------------------------------------------|
